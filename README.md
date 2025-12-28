@@ -1,7 +1,7 @@
 <!-- README.md -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6EF2FF&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+Hashemi;Front-End+Developer;React+%7C+Three.js+%7C+Tailwind;Building+Modern+3D+Web+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6EF2FF&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+Hashemi;Full+Stack+Developer;React+%7C+Django;Building+Modern+Web+Experiences" />
 
 </div>
 
@@ -9,11 +9,8 @@
 
 ## 🧠 About Me
 
-🎓 Passionate **Front-End Developer**  
-🌌 Focused on **React**, **Three.js**, and modern UI  
-🛠 Building interactive & 3D web experiences  
-🌍 Open to global opportunities
-
+🎓 Passionate **Full Stack Developer**  
+🌌 Focused on **React**, **Django**, and modern UI  
 ---
 
 ## 🚀 Tech Stack
@@ -28,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=alihashemi8&theme=tokyonight&hide_border=true" />
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
 
