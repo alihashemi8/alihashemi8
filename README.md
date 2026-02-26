@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 🎓 Passionate **Full Stack Developer**  
-🌌 Focused on **React**, **Django**, and modern UI  
+🌌 Focused on **React** and **Django**
 ---
 
 ## 🚀 Tech Stack
